@@ -1,0 +1,15 @@
+p {
+	color: snow;
+	background: black;
+	font-weight: bold;
+	text-align: center;
+}
+h1 {
+	text-shadow: 2px 2px #ff0000;
+}
+ol {
+	list-style-type: upper-roman;
+}
+ul {
+	list-style-type: square;
+}

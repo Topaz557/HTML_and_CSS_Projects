@@ -1,0 +1,10 @@
+p {
+	color: blue;
+	background: pink;
+	font-weight: bold;
+	text-align: center;
+	font-style: chiller;
+}
+h1 {
+	text-shadow: 2px 2px #ff0000;
+}
