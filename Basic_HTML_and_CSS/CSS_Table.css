@@ -10,10 +10,26 @@ tr, th {
 	color: cornsilk;
 }
 tr, td {
-	background-color: darkgreen;
+	background-color: lightskyblue;
 	color: white;
 }
 t {
 	background-color: black;
 	color: red;
+	font-size: larger;
+    font-family: sans-serif;
+}
+p {
+    font-size: larger;
+    font-family: sans-serif;
+}
+body {
+	background-color: grey;
+}
+.rsvp {
+	width: 700px;
+	margin-bottom: 10px;
+	border-style: dashed;
+	border-color: white;
+	border-radius: 10px;
 }
