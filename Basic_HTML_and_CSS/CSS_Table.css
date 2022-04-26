@@ -2,7 +2,7 @@ table {
 	border: 1px solid silver;
 }
 td:hover {
-	background-color: yellow;
+	background-color: rgb(72, 127, 209);
 	color: black;
 }
 tr, th {
@@ -26,10 +26,11 @@ p {
 body {
 	background-color: grey;
 }
-.rsvp {
+.contact {
 	width: 700px;
 	margin-bottom: 10px;
 	border-style: dashed;
 	border-color: white;
 	border-radius: 10px;
 }
+
