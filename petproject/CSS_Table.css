@@ -1,0 +1,36 @@
+table {
+	border: 1px solid silver;
+}
+td:hover {
+	background-color: rgb(72, 127, 209);
+	color: black;
+}
+tr, th {
+	background-color: black;
+	color: cornsilk;
+}
+tr, td {
+	background-color: lightskyblue;
+	color: white;
+}
+t {
+	background-color: black;
+	color: red;
+	font-size: larger;
+    font-family: sans-serif;
+}
+p {
+    font-size: larger;
+    font-family: sans-serif;
+}
+body {
+	background-color: grey;
+}
+.contact {
+	width: 700px;
+	margin-bottom: 10px;
+	border-style: dashed;
+	border-color: white;
+	border-radius: 10px;
+}
+
